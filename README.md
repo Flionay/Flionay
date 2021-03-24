@@ -11,6 +11,3 @@
 - 📫 How to reach me: [AngYi's Blog](https://www.angyi.online/)
 - ⚡ Fun fact: 🖥️ 📱 🎧 ⌨️ 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flionay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
