@@ -1,7 +1,8 @@
-### Hi there 👋
+## 你好，我是Flionay！![GitHub followers](https://img.shields.io/github/followers/flionay?style=social)
 
- ✨ _special_ ✨ 
-
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=flionay&hide=contribs,prs&count_private=true&show_icons=true&theme=flag-india">
+</a>
 
 - 🔭 I’m currently working on -- 数据处理，深度学习
 - 🌱 I’m currently learning -- Docker SQL 
@@ -10,4 +11,6 @@
 - 📫 How to reach me: [AngYi's Blog](https://www.angyi.online/)
 - ⚡ Fun fact: 🖥️ 📱 🎧 ⌨️ 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flionay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
